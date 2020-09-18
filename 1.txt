@@ -1,1 +1,3 @@
 This is a sample project file.
+
+Sample edit made from master branch
