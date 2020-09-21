@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Edit made from master branch
+=======
+This is a sample project file.
+Edit from develop branch
+>>>>>>> new_develop
