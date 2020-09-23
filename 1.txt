@@ -4,4 +4,4 @@ Edit from develop branch
 Another edit from develop branch
 
 Sample edit made from master branch
-master
+

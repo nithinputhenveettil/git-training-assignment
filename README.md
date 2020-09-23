@@ -73,11 +73,4 @@ git clone [url]
 |`git diff` |This command shows the file differences which are not yet staged.|
 |`git diff –staged `| This command shows the differences between the files in the staging area and the latest version present.|
 | `git diff [source branch] [target branch]` | Preview changes before merging |
-=======
-Some basic Git commands are:
-```
-git status
-git add
-git commit
-```
->>>>>>> 9873af9110c83d655c2cd1e4d4ea5e53a048eb49
+---
